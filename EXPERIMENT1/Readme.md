@@ -1,6 +1,6 @@
 # EXPERIMENT 1
 ## TITLE: 1a.) Display the primitive datatypes
-```
+```java
 class Defaults{
 boolean bool;
 char c;
