@@ -26,4 +26,4 @@ public static void main(String[] args)
 
 ```
 # OUTPUT
-![EXPERIMENT 1 OUTPUT](exp1a.png)
+![EXPERIMENT 1 OUTPUT ](exp1a.png)
