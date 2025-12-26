@@ -24,4 +24,4 @@ System.out.println("perimeter of square:"+perimeter);
 ```
 
 #OUTPUT
-![EXPERIMENT-2 OUTPUT](exp2a.png)
+![EXPERIMENT-2 OUTPUT](screenshots/exp2a.png)
