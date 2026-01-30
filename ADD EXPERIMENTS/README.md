@@ -89,7 +89,7 @@ import java.util.Scanner;
 ![ADD-EXPERIMENT-2 OUTPUT](ADDEXP2.png)
 
 #ADD EXPERIMENTS
-## ADD EXP 1)Title:Palindrome
+## ADD EXP 3)Title:Palindrome
 ```java
 
 import java.util.Scanner;
