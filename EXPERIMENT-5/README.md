@@ -75,7 +75,7 @@ public class InterfaceDemo {
 
 ```
 #OUTPUT:
-![EXPERIMENT-5A OUTPUT](exp5a.java)
+![EXPERIMENT-5A OUTPUT](exp5a.png)
 
 
 ##5B Title:To Implement Runtime Polymorphism
@@ -115,7 +115,7 @@ public class RuntimePolymorphismDemo {
 
 ```
 #OUTPUT:
-![EXPERIMENT-5B OUTPUT](exp5b.java)
+![EXPERIMENT-5B OUTPUT](exp5b.png)
 
 
 
@@ -136,5 +136,5 @@ public class StringBufferDemo {
 
 ```
 #OUTPUT:
-![EXPERIMENT-5C OUTPUT](exp5c.java)
+![EXPERIMENT-5C OUTPUT](exp5c.png)
 
